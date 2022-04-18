@@ -19,7 +19,7 @@
 <?php require('component/navbar_user.php') ?>
 
 
-        <p class="big-section">จองสนาม</p>
+        <p class="big-section">จองสนาม</p>.
         <div class="box-card">
 <?php if ($field) : ?>
     <?php foreach ($field as $field) : ?>
